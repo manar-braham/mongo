@@ -1,0 +1,7 @@
+com/gte3/mongodemo/Student.class
+com/gte3/mongodemo/StudentRepository.class
+com/gte3/mongodemo/StudentService.class
+com/gte3/mongodemo/StudentController.class
+com/gte3/mongodemo/MongoDemoApplication.class
+com/gte3/mongodemo/Student$StudentBuilder.class
+com/gte3/mongodemo/StudentServiceImplementation.class
